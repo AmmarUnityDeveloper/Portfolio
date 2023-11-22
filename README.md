@@ -1,2 +1,2 @@
 # Portfolio
-each data about my profession is in this 
+Each data about my profession is in this 
